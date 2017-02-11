@@ -1,0 +1,27 @@
+trace-1  http, ARP
+trace-2  ARP
+trace-3  http
+trace-4  http
+trace-5  -
+trace-6  ICMP, ftp-control(21), ftp-data(20), http
+trace-7  ftp-control(21), ftp-data(20)
+trace-8  ARP, http
+trace-9  telnet(23), http(RST)
+trace-10 http
+trace-11 http
+trace-12 ARP,http
+trace-13 ftp-control(21), ftp-data(20)
+trace-14 ftp-control(21), ftp-data(20), http
+trace-15 ICMP, Tftp
+trace-16 ftp-control(21), ftp-data(20)
+trace-17 https
+trace-18 ssh
+trace-19 telnet
+trace-20 http, ARP
+trace-21 ARP
+trace-22 http(RST ukoncenia)
+trace-23 ARP
+trace-24 http
+trace-25 ARP, http
+
+
