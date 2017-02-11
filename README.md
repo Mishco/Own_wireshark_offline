@@ -1,4 +1,4 @@
-# own_wireshark_offline
+# Own offline wireshark
 PKS project for school
 
 # Počitačové a komunikačné siete @ [FIIT STU](http://www.fiit.stuba.sk)
