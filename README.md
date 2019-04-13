@@ -2,14 +2,6 @@
 
 Project for school
 
-# Počitačové a komunikačné siete 
+## Computer and communication networks 
 
-Projekt na rozoberanie .pcap súborov offline.
-
-
-
-```java
-
-
-```
-
+Offline parsing .pcap files 
